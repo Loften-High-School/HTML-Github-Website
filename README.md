@@ -1,6 +1,8 @@
 # HTML-Github-Website
 Looking at code that contains HTML to make a website on github
 
+Feel Free to add more onto this
+
 Link to a site:
 
 https://dev.to/code_2/building-and-deploying-a-custom-site-using-github-actions-and-github-pages-3fjf
