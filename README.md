@@ -3,7 +3,7 @@ Looking at code that contains HTML to make a website on github
 
 Feel Free to add more onto the repository
 
-Link to a site:
+Link to sites:
 
 https://dev.to/code_2/building-and-deploying-a-custom-site-using-github-actions-and-github-pages-3fjf
 
